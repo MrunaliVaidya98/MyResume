@@ -1,5 +1,5 @@
-import React from "react";
-import Resume from "./Resume";
+import React from 'react';
+import Resume from './Resume';
 
 function App() {
   return <Resume />;
